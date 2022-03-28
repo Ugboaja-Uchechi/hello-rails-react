@@ -1,24 +1,63 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Hello-Rails-React
 
-Things you may want to cover:
+## Description
 
-* Ruby version
+In this project, I created a budget website in which users can see different greetings 
 
-* System dependencies
+## Built with
 
-* Configuration
+- Rails
 
-* Database creation
+- Rails-react
 
-* Database initialization
+- HTML
 
-* How to run the test suite
+- Linters(Rubocop)
 
-* Services (job queues, cache servers, search engines, etc.)
+## Setup
 
-* Deployment instructions
+` Navigate to your terminal`
 
-* ...
+`git clone https://github.com/Ugboaja-Uchechi/hello-rails-react.git`
+
+`cd hello-rails-react in that same terminal`
+
+`run code . to open in an IDE like VsCode`
+
+` run bundle install to couple all dependencies`
+
+Run:
+
+`rails db:create`
+
+`rails db:migrate`
+
+`rails db:seed`
+
+before running `rails s` in your console to view the website
+
+## Author
+
+👤Ugboaja-Uchechi
+
+[GitHub](https://github.com/Ugboaja-Uchechi)
+
+[LinkedIn](https://www.linkedin.com/in/stephanie-ugboaja-930a2a216/)
+
+## 🤝Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the issues page. Show your support
+
+## Give a ⭐️ if you like this project!
+
+## Acknowledgement:
+
+The idea was gotten from the ![](https://img.shields.io/badge/Microverse-blueviolet) Microverse Figma template.
+
+## 📝 License
+
+This project is MIT licensed.
