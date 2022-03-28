@@ -58,8 +58,6 @@ Feel free to check the issues page. Show your support
 
 The idea was gotten from the ![](https://img.shields.io/badge/Microverse-blueviolet) Microverse Figma template.
 
-My partner also participated in this project.
-
 ## 📝 License
 
 This project is MIT licensed.
