@@ -1,10 +1,8 @@
 import React from "react"
-import PropTypes from "prop-types"
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom'
 import { Provider } from 'react-redux'
-import configureStore from '../configureStore'
-
-const store = configureStore()
+import store from '../redux/configureStore'
+import Greeting from "./Greeting"
 
 class App extends React.Component {
   render () {
